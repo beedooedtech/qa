@@ -33,6 +33,6 @@ Observações
 * Os testes devem ser criados no cypress ( Frontend e Backend )
 * Criar um readme com o passo a passo para reproduzir os testes
 * Incluir dentro do repositório o documento do teste manual
-* Subir o repositório no github, deixar público e mandar o link para o RH.
+* Subir o repositório no github pessoal, deixar público e mandar o link para o RH.
  
 Bom teste! 😉
